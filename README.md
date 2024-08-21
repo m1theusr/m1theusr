@@ -21,6 +21,3 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div><br />
-
----
-Adoro desafios. Ajudar pessoas através da programação, facilitando o meu e o seu dia.
