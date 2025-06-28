@@ -22,7 +22,7 @@ Sou DevOps Engineer & SRE, apaixonado por automação, infraestrutura como códi
 - **Cloud:** AWS, GCP
 - **Containers:** Docker, Kubernetes
 - **Infraestrutura como Código:** Terraform
-- **CI/CD:** GitHub Actions, GitLab CI
+- **CI/CD:** GitHub Actions, Self-hosted
 - **Observabilidade:** Datadog, ELK Stack
 - **Sistemas Operacionais:** Linux (Debian, Ubuntu, CentOS)
 - **Automação:** Shell Script, Python
