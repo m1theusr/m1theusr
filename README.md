@@ -23,7 +23,7 @@ IAM & Least Privilege · VPC & Network Security · Secrets Management · Securit
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"> <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 ### Observabilidade & Confiabilidade
-<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"> <img alt="ELK" src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white">
+<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"> <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"> <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> <img alt="Loki" src="https://img.shields.io/badge/Loki-2C3239?style=flat-square&logo=grafana&logoColor=white"> <img alt="Tempo" src="https://img.shields.io/badge/Tempo-2C3239?style=flat-square&logo=grafana&logoColor=white">
 
 Definição de SLO/SLI · Gestão de incidentes · Arquitetura de alta disponibilidade · Estratégias de alertas
 
@@ -37,7 +37,7 @@ Definição de SLO/SLI · Gestão de incidentes · Arquitetura de alta disponibi
 - **Infraestrutura como Código** — Ambientes reproduzíveis e versionados com Terraform
 - **Pipelines CI/CD** — Workflows automatizados de build, teste e deploy (GitHub Actions, self-hosted runners)
 - **Orquestração de Containers** — Clusters Kubernetes em produção com gestão adequada de recursos
-- **Observabilidade** — Monitoramento end-to-end, logging estruturado e alertas acionáveis com Datadog e ELK
+- **Observabilidade** — Monitoramento end-to-end com Prometheus/Grafana, logging com Loki, tracing com Tempo e alertas acionáveis
 - **Engenharia de Confiabilidade** — Operações orientadas por SLO/SLI, post-mortems e melhorias de resiliência
 - **Segurança em Cloud** — IAM com least privilege, hardening de infraestrutura, network segmentation e práticas DevSecOps integradas ao pipeline
 
